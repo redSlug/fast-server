@@ -1,3 +1,5 @@
+# Use OS X built in script editor to edit this, then run by directly pasting in terminal
+
 
 osascript -e 'tell application"Google Chrome"
 make new window
